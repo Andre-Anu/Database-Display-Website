@@ -10,6 +10,7 @@
     <!-- Favicon for the website -->
     <link rel="shortcut icon" href="img/icon.png" type="icon.png" />
     <!-- Validate the HTML at https://validator.w3.org/ -->
+    <!-- comentario -->
 </head>
 
 <body>
